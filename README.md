@@ -11,7 +11,7 @@ Before getting started, make sure you have Node.js and npm (Node Package Manager
 1. **Clone this repository to your local machine:**
 
     ```bash
-    git clone https://github.com/yourusername/your-project.git
+    git clone url-repo
     ```
 
 2. **Navigate into the project directory:**
